@@ -37,7 +37,7 @@ setup(
     install_requires=[
         "pandas>=1.4,<1.5.1",
         "sqlalchemy>=1.4,<1.4.42",
-        "geopandas~=0.11.0",
+        "geopandas>=0.11,<0.13",
         "dagster~=1.0.12",
         "dagit~=1.0.12",
     ],
