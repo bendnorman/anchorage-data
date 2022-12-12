@@ -36,7 +36,7 @@ setup(
     # Use the format pkg_name>=x,<y", Included packages are just examples:
     install_requires=[
         "pandas>=1.4,<1.5.1",
-        "sqlalchemy>=1.4,<1.4.42",
+        "sqlalchemy>=1.4,<1.4.46",
         "geopandas~=0.11.0",
         "dagster~=1.0.12",
         "dagit~=1.0.12",
